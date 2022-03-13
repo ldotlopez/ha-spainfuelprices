@@ -1,0 +1,7 @@
+default_config:
+
+logger:
+  default: warning
+  logs:
+    carbuapi: debug
+    custom_components.spainfuelprices: debug

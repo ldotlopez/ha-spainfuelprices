@@ -1,0 +1,16 @@
+{
+  "domain": "spainfuelprices",
+  "name": "Fuel prices for Spain",
+  "config_flow": true,
+  "documentation": "https://github.com/ldotlopez/ha-spainfuelprices",
+  "issue_tracker": "https://github.com/ldotlopez/ha-spainfuelprices/issues",
+  "requirements": [
+    "carbuapi==0.0.1"
+  ],
+  "dependencies": [],
+  "codeowners": [
+    "@ldotlopez"
+  ],
+  "iot_class": "cloud_polling",
+  "version": "0.0.1"
+}

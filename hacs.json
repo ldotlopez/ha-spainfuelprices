@@ -1,0 +1,6 @@
+{
+  "name": "Spain fuel stations prices",
+  "render_readme": true,
+  "domains": ["sensor"],
+  "content_in_root": false
+}
