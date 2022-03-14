@@ -8,9 +8,8 @@
 					"max-distance": "[%key:common::config_flow::data::max-distance%]",
 					"codprov": "[%key:common::config_flow::data::codprov%]"
 				}
-			},
+			}
 		},
-
 		"error": {
 			"invalid_auth": "[%key:common::config_flow::error::invalid_auth%]",
 			"unknown": "[%key:common::config_flow::error::unknown%]"
